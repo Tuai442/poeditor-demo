@@ -1,3 +1,5 @@
 {
-    "title": "en title"
+    "hello test": {
+        "test": "en test"
+    }
 }
